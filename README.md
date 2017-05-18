@@ -1,0 +1,1 @@
+# barcode-geenrate-auto
